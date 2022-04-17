@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @RioRebin18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-RioRebin18/RioRebin18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+class Config: 
+   API_ID = "" # 🤖 Same As APP_ID. Get It From My.telegram.org. 
+   API_HASH = "" # 🤖 Get It From My.telegram.org. 
+   BOT_TOKEN = "" # 🤖 Get It From @BotFather (Telegram) By Sending /newbot Command.
+
+
